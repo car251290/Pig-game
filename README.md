@@ -1,4 +1,4 @@
-# The-Pig-Game 
+# Pig-Game 
 How to Learning (JS) 
 
 Fun 2 player game with the dice in the center 🎲 . Always this stupid random dice, right?
